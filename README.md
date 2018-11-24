@@ -1,0 +1,1 @@
+Use `/me` or `/em` to send actions and emotions to chat.
