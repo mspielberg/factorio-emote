@@ -1,8 +1,8 @@
 {
   "name": "emote",
   "title": "Emote",
-  "factorio_version": "0.17",
-  "version": "1.1.0",
+  "factorio_version": "0.18",
+  "version": "1.2.0",
   "author": "Therax",
   "description": "Send emotions and actions in chat."
 }
